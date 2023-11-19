@@ -1075,7 +1075,7 @@ let otherPageRules = [
             "Waitress Heroine":"服務員女主角",
             "Soapy Massage":"身體海綿",
             "Gaping":"擴張",
-            "Bokukko Heroine":"boku娘",
+            "Bokukko Heroine":"ボクっ娘",
             "Chikan":"痴漢",/*痴漢*/
             "Single-sex School":"單性別學校",
             "Few Event CGs":"少量事件CG",
