@@ -612,6 +612,7 @@ let otherPageRules = [
             /*細分*/
             "Sexual Content":"色情內容",
             // "ADV":"ADV",
+            "Hakama":"袴",
             "Male Protagonist":"男性主角",
             "Penetrative Sex":"插入式做愛",
             "No Sexual Content":"無色情內容",
