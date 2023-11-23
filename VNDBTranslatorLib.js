@@ -1182,7 +1182,7 @@ let otherPageRules = [
             "Amber": "琥珀色",
             "Pale": "白皙",
             "Slim": "苗條",
-            "Teen": "青少年",
+            "Teen": "青少年/女",
             "Apron": "圍裙",
             "Dress": "連衣裙",
             "School Uniform": "校服",
