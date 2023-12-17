@@ -890,7 +890,7 @@ let otherPageRules = [
             "Only Adult Heroines":"僅有成年女主角",
             "Music Recollection":"音樂欣賞",
             "Tomboy Heroine":"假小子女主角",
-            "Butterfly":"蝴蝶",
+            "Butterfly":"蝴蝶體位",
             "Scenario Selection":"場景選項",
             "Healer Heroine":"治療者女主角",
             //"RPG":"RPG",
@@ -923,7 +923,7 @@ let otherPageRules = [
             "Hero with Glasses":"戴眼鏡男主角",
             "Protagonist's Kouhai as a Heroine":"學妹/後輩女主角",
             "Proactive Protagonist":"積極主動的主角",
-            "Petplay":"寵物角色扮演",
+            "Petplay":"寵物Play",
             "Third-person Narrative":"第三人稱敘事",
             "Double Handjob":"雙人陰莖手交",
             "Summer":"夏天",
@@ -1677,10 +1677,10 @@ let otherPageRules = [
             /*性徵*/
             "Nipple Sucking": "吮吸乳頭",
             "Nipple Teasing": "逗弄乳頭",/*挑逗乳頭/玩弄乳頭*/
-            "Ball-cupping": "逗弄球",/*逗弄陰囊*/
+            "Ball-cupping": "逗弄睪丸",/*逗弄陰囊*/
             "Bodysponge": "身體海綿",
             "Naked (Not Sexually Involved)": "裸體(不涉及性)",/*裸體(沒有性行為)*/
-            "Naizuri": "銼刀",/*無效乳交/鐵板/貧乳乳交 https://zh.moegirl.org.cn/%E9%94%89%E5%88%80*/
+            "Naizuri": "貧乳乳交",/*無效乳交/鐵板/貧乳乳交 https://zh.moegirl.org.cn/%E9%94%89%E5%88%80*/
             //</editor-fold>
             /*todo ----精翻,來源:https://vndb.org/v33099/chars#chars*/
             //<editor-fold desc="IDEA摺疊4.3.6">
